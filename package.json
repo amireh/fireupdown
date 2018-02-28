@@ -2,7 +2,7 @@
   "name": "fireupdown",
   "version": "1.0.0",
   "description": "apply arbitrary up and down routines serially",
-  "main": "index.js",
+  "main": "lib/index.js",
   "scripts": {
     "test": "mocha 'lib/**/*.test.js'",
     "coverage": "nyc -r text npm test"
